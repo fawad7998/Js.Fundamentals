@@ -13,9 +13,10 @@ let square = function (num) {
 
 let value = square(3);
 let otherValue = square(10);
-
+ 
 console.log(value);
 console.log(otherValue);
+
 
 // Challenge Area
 
